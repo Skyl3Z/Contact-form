@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Frontend Mentor - Contact form
 
 ![Design preview for the Contact form coding challenge](./design/desktop-preview.jpg)
@@ -100,11 +101,16 @@ This challenge is completely free. Please share it with anyone who will find it 
 
 **Have fun building!** 🚀
 =======
+=======
+>>>>>>> b844ecfa5d21e7d90468a5c9f83c0a7aedb74ef6
 📬 Contact Form Project
 
 A responsive, user-friendly contact form built with HTML, CSS, and JavaScript. Perfect for websites that need an interactive form with validation and a polished design.
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> b844ecfa5d21e7d90468a5c9f83c0a7aedb74ef6
 🚀 Project Overview
 
 This project demonstrates how to create a fully functional contact form with:
@@ -119,7 +125,10 @@ Mobile-first, responsive design
 
 It’s perfect for frontend practice, portfolio projects, or integration into small websites.
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> b844ecfa5d21e7d90468a5c9f83c0a7aedb74ef6
 ✅ Key Features
 
 Responsive Design: Works seamlessly on mobile, tablet, and desktop.
@@ -132,7 +141,10 @@ Success Feedback: Displays a message when the form is submitted successfully.
 
 Accessible & Clean Code: Semantic HTML and structured CSS.
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> b844ecfa5d21e7d90468a5c9f83c0a7aedb74ef6
 🛠️ Technology Stack
 
 HTML5 – Structure of the page
@@ -143,11 +155,15 @@ JavaScript – Form validation and interactivity
 
 Optional: Add frameworks like Sass, Tailwind, or any build tools if used.
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> b844ecfa5d21e7d90468a5c9f83c0a7aedb74ef6
 📦 Installation
 
 Clone the repository and open it locally:
 
+<<<<<<< HEAD
 git clone https://github.com/your-username/contact-form.git
 cd contact-form
 
@@ -155,6 +171,12 @@ cd contact-form
 Open index.html in your browser to view the project.
 
 
+=======
+git clone https://github.com/your-username/contact-form.git cd contact-form
+
+Open index.html in your browser to view the project.
+
+>>>>>>> b844ecfa5d21e7d90468a5c9f83c0a7aedb74ef6
 ▶️ Usage
 
 Fill out the First Name and Last Name fields.
@@ -171,6 +193,7 @@ Click Submit.
 
 A success message will appear if all inputs are valid.
 
+<<<<<<< HEAD
 
 Folder Structure
 contact-form/
@@ -180,6 +203,9 @@ contact-form/
 ├─ script.js            # Form validation and interactivity
 └─ index.html           # Main HTML file
 
+=======
+Folder Structure contact-form/ ├─ assets/ │ └─ images/ # Icons, screenshots, favicon ├─ style.css # Stylesheet ├─ script.js # Form validation and interactivity └─ index.html # Main HTML file
+>>>>>>> b844ecfa5d21e7d90468a5c9f83c0a7aedb74ef6
 
 🧠 Lessons Learned
 
@@ -191,7 +217,10 @@ Styling custom checkboxes and radio buttons
 
 Handling dynamic UI feedback (success messages)
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> b844ecfa5d21e7d90468a5c9f83c0a7aedb74ef6
 🔮 Possisble Improvements
 
 Add server-side integration to actually send messages
@@ -201,4 +230,7 @@ Enhance accessibility (ARIA roles, keyboard navigation)
 Implement animations for form transitions
 
 Add multi-language support
+<<<<<<< HEAD
 >>>>>>> 5789b3751848811279649aa583489c2fe89b91ee
+=======
+>>>>>>> b844ecfa5d21e7d90468a5c9f83c0a7aedb74ef6
