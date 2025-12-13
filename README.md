@@ -2,6 +2,7 @@
 
 A responsive, user-friendly contact form built with HTML, CSS, and JavaScript. Perfect for websites that need an interactive form with validation and a polished design.
 
+
 🚀 Project Overview
 
 This project demonstrates how to create a fully functional contact form with:
@@ -15,6 +16,7 @@ Success message notifications
 Mobile-first, responsive design
 
 It’s perfect for frontend practice, portfolio projects, or integration into small websites.
+
 
 ✅ Key Features
 
@@ -38,6 +40,7 @@ JavaScript – Form validation and interactivity
 
 Optional: Add frameworks like Sass, Tailwind, or any build tools if used.
 
+
 📦 Installation
 
 Clone the repository and open it locally:
@@ -45,6 +48,7 @@ Clone the repository and open it locally:
 git clone https://github.com/your-username/contact-form.git cd contact-form
 
 Open index.html in your browser to view the project.
+
 
 ▶️ Usage
 
@@ -64,6 +68,7 @@ A success message will appear if all inputs are valid.
 
 Folder Structure contact-form/ ├─ assets/ │ └─ images/ # Icons, screenshots, favicon ├─ style.css # Stylesheet ├─ script.js # Form validation and interactivity └─ index.html # Main HTML file
 
+
 🧠 Lessons Learned
 
 How to handle form validation with vanilla JavaScript
@@ -73,6 +78,7 @@ Managing responsive layouts using CSS and media queries
 Styling custom checkboxes and radio buttons
 
 Handling dynamic UI feedback (success messages)
+
 
 🔮 Possisble Improvements
 
