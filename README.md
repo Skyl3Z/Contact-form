@@ -67,6 +67,7 @@ Click Submit.
 A success message will appear if all inputs are valid.
 
 Folder Structure contact-form
+
 / ├─ assets/
 
 │ └─ images/ # Icons, screenshots, favicon
