@@ -68,9 +68,13 @@ A success message will appear if all inputs are valid.
 
 Folder Structure contact-form
 / ├─ assets/
+
 │ └─ images/ # Icons, screenshots, favicon
+
 ├─ style.css # Stylesheet 
+
 ├─ script.js # Form validation and interactivity
+
 └─ index.html # Main HTML file
 
 
